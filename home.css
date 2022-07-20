@@ -409,7 +409,7 @@
   flex-direction: column;
 }
 .home-image01 {
-  top: 0px;
+  top: -5px;
   right: 0px;
   width: 120vh;
   height: 80vh;
